@@ -1,4 +1,4 @@
 rvm:
     - 1.9.3
 install:
-    - gem install autobuild
+    - gem install -u autobuild
